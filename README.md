@@ -4,11 +4,11 @@
 3. other tools
 
 ## operations for automaiton:
-- select a candidate's data on linkedin or other website and copy them to buffer: name and last name, company name
-* grab name on LI
-* grab name on LI recruiter
-* grab name on other websites
+1. grab to buffer (select a candidate's data on linkedin or other website and copy them to buffer: name and last name, company name)
+    - LI
+    - LI recruiter
+    - other websites
+2. check if name is in the DB already
 
 ## additional:
-* check if name is in the DB (basic)
 * creating new profiles: chain prompt asking to point at data to grab and add: 

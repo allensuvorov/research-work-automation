@@ -12,3 +12,9 @@
 
 ## additional:
 * creating new profiles: chain prompt asking to point at data to grab and add: 
+
+JS solution with browser extension:
+Chrome Extension
+1. using background script https://developer.chrome.com/extensions/background_pages
+2. to get inner html of element pointed at
+3. and put it to clipboard https://stackoverflow.com/questions/400212/how-do-i-copy-to-the-clipboard-in-javascript

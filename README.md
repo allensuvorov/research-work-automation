@@ -20,3 +20,11 @@ Chrome Extension for select and copy
 
 ## PY solution with selenium
 App for automation of all tasks
+* create and fill out profile in INV
+1. new-> candidate to create profile: browser
+2. get data from candidate page: name, company
+3. get email from zoominfo
+4. insert data to inv form
+
+
+

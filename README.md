@@ -26,5 +26,10 @@ App for automation of all tasks
 3. get email from zoominfo
 4. insert data to inv form
 
-
-
+## Best case
+1. press hotkey1 - check if in INV, if yes - hotkey2, if no - hotkey3. 
+2. press hotkey2 - add link to googlesheet (old people)
+3. press hotkey3 - add link to googlesheet (new people)
+4. press hotkey4 - parse pages on LI and return data (name, company, LIlink, city) 
+5. press hotkey5 - get emails from zoom (one by one)
+6. import via inv web.

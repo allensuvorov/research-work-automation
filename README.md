@@ -4,8 +4,8 @@
 3. other tools
 
 ## operations for automaiton:
-1. select and copy to clipboard innerHTML of element: name and last name, company name
-    - LI, LI recruiter, other websites
+1. [x] solved thise one with chrome extension. select and copy to clipboard innerHTML of element: name and last name, company name
+    - LI, LI recruiter, other websites.
 2. check if name is in the DB already
 3. create and fill out profile in INV
 

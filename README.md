@@ -33,3 +33,8 @@ App for automation of all tasks
 4. press hotkey4 - parse pages on LI and return data (name, company, LIlink, city) 
 5. press hotkey5 - get emails from zoom (one by one)
 6. import via inv web.
+
+## Progress
+- installed windows terminal
+- installed node.js with npm
+- installed selenium (chromedriver and selenuim IDE)

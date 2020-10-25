@@ -38,3 +38,4 @@ App for automation of all tasks
 - installed windows terminal
 - installed node.js with npm
 - installed selenium (chromedriver and selenuim IDE)
+- inititated node package, needed to add path to have NODE and NPM working, starting a project
